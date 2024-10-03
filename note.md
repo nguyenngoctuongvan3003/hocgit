@@ -10,3 +10,5 @@ git reset: khong chuan bi luu nua
 git log: 
 git log --oneline
 git checkout --code cua commit
+git checkout -b
+git merge {branchname}
