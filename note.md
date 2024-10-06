@@ -16,3 +16,9 @@ git push https://github.com/nguyenngoctuongvan3003/hocgit.git master
 git remote add origin https://github.com/nguyenngoctuongvan3003/hocgit.git (đặt đường dẫn tên là origin)
 
 lấy 1 remote repo có sẵn trên git về máy của chúng ta
+
+tạo branch trên github: git push -u origin dev
+lấy branch đang có trên github:
+git checkout -b staging origin/staging 
+
+merge với master:
