@@ -12,3 +12,4 @@ git log --oneline
 git checkout --code cua commit
 git checkout -b
 git merge {branchname}
+git push https://github.com/nguyenngoctuongvan3003/hocgit.git master
