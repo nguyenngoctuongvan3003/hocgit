@@ -19,6 +19,10 @@ lấy 1 remote repo có sẵn trên git về máy của chúng ta
 
 tạo branch trên github: git push -u origin dev
 lấy branch đang có trên github:
+git fetch origin
 git checkout -b staging origin/staging 
 
+
 merge với master:
+trên github
+git pull
